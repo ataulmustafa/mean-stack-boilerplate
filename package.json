@@ -1,7 +1,14 @@
 {
   "name" : "MEAN",
-  "version" : "0.0.3",
+  "version" : "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ataulmustafa/mean-stack-boilerplate.git"
+  },
   "dependencies" : {
-    "express" : "~4.8.8"
+    "express" : "^4.13.4",
+    "connect": "^3.4.1",
+    "body-parser": "^1.15.0"
   }
 }
